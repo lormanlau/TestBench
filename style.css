@@ -1,0 +1,17 @@
+header {
+	background-color: blue;
+	height: 100px;
+}
+#box {
+	display: inline;
+	background-color: red;
+	border-radius: 5px;
+	padding: 10px;
+}
+li {
+	background-color: red;
+	display: inline-block;
+}
+ul {
+	background-color: green;
+}
